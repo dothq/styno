@@ -1,2 +1,2 @@
-# styno
+# Project Styno
 🚀 Project Styno
